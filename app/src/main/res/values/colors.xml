@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+    <color name="dark_blue">#18345C</color>
+    <color name="redcolor">#F63235</color>
+    <color name="barcolor">#071226</color>
+    <color name="profile_bg_color">#993A50</color>
+    <color name="app_listitem_color">#0F2243</color>
+
+
+</resources>

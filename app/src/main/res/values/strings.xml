@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">EarnKarle</string>
+    <string name="text_username">Login</string>
+    <string name="text_userid">EMAIL ID OR PHONE NUMBER</string>
+    <string name="text_password">PASSWORD</string>
+    <string name="text_login">LOG IN</string>
+    <string name="text_forgotpassword">FORGOT PASSWORD</string>
+    <string name="text_signup">SIGN UP</string>
+    <string name="text_emailid">EMAIL ID</string>
+    <string name="text_send">SEND EMAIL</string>
+    <string name="text_fragment_first">"Lorem ipsum dolor sit amet,sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</string>
+    <string name="text_fragment_second">"Lorem Ipsum is simply dummy text of the printing and typesetting industry."</string>
+    <string name="text_fragment_thired">"It is a long established fact that a reader will be distracted by the readable content."</string>
+    <string name="text_forgotdetail">"Don't worry just fill in your email and we'll help you reset your password."</string>
+    <!--=========================material============================================================================================================-->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--  <string name="nav_item_home">Home</string>
+      <string name="nav_item_friends">Friends</string>
+      <string name="nav_item_notifications">Messages</string>-->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_home</item>
+        <item>@string/title_profile</item>
+        <item>@string/title_shareandearn</item>
+        <item>@string/title_wallet</item>
+        <item>@string/title_transaction</item>
+        <item>@string/title_transectionhistory</item>
+        <item>@string/title_support</item>
+        <item>@string/title_mypromoter</item>
+        <item>@string/title_rate</item>
+        <item>@string/title_logout</item>
+    </string-array>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_shareandearn">Share &amp; Earn</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="title_transaction">Transaction</string>
+    <string name="title_transectionhistory">Transaction History</string>
+    <string name="title_support">Support</string>
+    <string name="title_mypromoter">My Promoters</string>
+    <string name="title_rate">Rate</string>
+    <string name="title_logout">Logout</string>
+
+    <!--=========================material============================================================================================================-->
+</resources>
